@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "シェードの埃は延長 (Live)",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2025-12-06T11:16:50.835090Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シェードの埃は延長",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_シェードの埃は延長_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シェードの埃は延長",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_シェードの埃は延長_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シェードの埃は延長",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/03_シェードの埃は延長_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シェードの埃は延長",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_シェードの埃は延長_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
